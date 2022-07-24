@@ -2,7 +2,7 @@ let users = {
   amelia: {
     id: 'amelia',
     name: 'Amelia',
-    avatarURL: '/images/avatars/cat.png',
+    avatarURL: '/images/avatars/amelia.png',
     answers: {
       xl8sn99cspryps6tt9l9lf: 'optionOne',
       bgnihnv508yduub3ooauh: 'optionTwo'
@@ -12,42 +12,42 @@ let users = {
   freya: {
     id: 'freya',
     name: 'Freya',
-    avatarURL: '/images/avatars/fox.png',
+    avatarURL: '/images/avatars/freya.png',
     answers: {},
     questions: []
   },
   harry: {
     id: 'harry',
     name: 'Harry',
-    avatarURL: '/images/avatars/gorilla.png',
+    avatarURL: '/images/avatars/harry.png',
     answers: {},
     questions: []
   },
   jack: {
     id: 'jack',
     name: 'Jack',
-    avatarURL: '/images/avatars/tiger.png',
+    avatarURL: '/images/avatars/jack.png',
     answers: {},
     questions: []
   },
   lilly: {
     id: 'lilly',
     name: 'Lilly',
-    avatarURL: '/images/avatars/rabbit.png',
+    avatarURL: '/images/avatars/lilly.png',
     answers: {},
     questions: []
   },
   mia: {
     id: 'mia',
     name: 'Mia',
-    avatarURL: '/images/avatars/koala.png',
+    avatarURL: '/images/avatars/mia.png',
     answers: {},
     questions: []
   },
   noah: {
     id: 'noah',
     name: 'Noah',
-    avatarURL: '/images/avatars/dog.png',
+    avatarURL: '/images/avatars/noah.png',
     answers: {
       '82chaucrvh5tu64gnyq33': 'optionOne',
       '1y168v1imegug999s457y8': 'optionTwo',
@@ -59,7 +59,7 @@ let users = {
   oliver: {
     id: 'oliver',
     name: 'Oliver',
-    avatarURL: '/images/avatars/lion.png',
+    avatarURL: '/images/avatars/oliver.png',
     answers: {
       bgnihnv508yduub3ooauh: 'optionOne',
       xl8sn99cspryps6tt9l9lf: 'optionTwo',
